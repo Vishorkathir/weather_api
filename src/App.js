@@ -30,7 +30,7 @@ function App() {
   return (
     <div className='container bg-warning p-5 mt-5 rounded-4'>
       <p className='text-center'>
-        <h2>Weather App</h2>
+        <h2>Weather Ap</h2>
         </p>
       <div class="input-group mb-3">
         <span class="input-group-text" id="basic-addon1">@</span>
